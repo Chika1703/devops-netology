@@ -27,3 +27,6 @@
      ```
 
 6. Игнорируются файлы `.terraform-provider-*` или другие, которые создаются во время выполнения Terraform.
+
+
+ PyCharm PyCharm PyCharm PyCharm PyCharm PyCharm PyCharm
